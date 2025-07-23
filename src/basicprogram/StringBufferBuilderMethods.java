@@ -1,6 +1,6 @@
 package basicprogram;
 
-public class StringB {
+public class StringBufferBuilderMethods {
 
 	public static void main(String[] args) 
 	{

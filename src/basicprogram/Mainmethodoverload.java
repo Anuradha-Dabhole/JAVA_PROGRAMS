@@ -19,6 +19,8 @@ main("Arati",'F');
 public static void main(String name,char gender) 
 {
 System.out.println("argument passed");	
+System.out.println(name);
+System.out.println(gender);
 	
 
 }
