@@ -1,6 +1,6 @@
 package basicprogram;
 
-public class basic extends basic2{
+public class basic3 extends basic2{
 
 	public static void main(String[] args) {
 		String Whole[]=new String [5];
@@ -12,7 +12,6 @@ public class basic extends basic2{
 		for(int i=0;i<5;i++)
 		{
 			System.out.println(Whole[i]);
-			System.out.println("Hello");
 			
 			
 		}
