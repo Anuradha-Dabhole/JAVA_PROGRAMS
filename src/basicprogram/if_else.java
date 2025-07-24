@@ -9,7 +9,7 @@ public class if_else {
 		Scanner d = new Scanner(System.in);
 		System.out.println("Enter your age");
 		int age =d.nextInt();
-		if(age>17)
+		if(age>18)
 		{
 			System.out.println("You are eligible to vote");
 		}
